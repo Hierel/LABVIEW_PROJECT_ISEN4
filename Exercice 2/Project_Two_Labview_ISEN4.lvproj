@@ -1,6 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="19008000">
-	<Property Name="varPersistentID:{56A97B73-2279-4A2F-911F-F3DA884786E3}" Type="Ref">/NI-myRIO-1900-030627ed/Library_Shared_Variables.lvlib/Inclinaison_Angle_NP</Property>
+	<Property Name="varPersistentID:{56A97B73-2279-4A2F-911F-F3DA884786E3}" Type="Ref">/NI-myRIO-1900-030627ed/Library_Shared_Variables.lvlib/Inclinaison_Angle_SP</Property>
+	<Property Name="varPersistentID:{667494F0-DBCD-402E-98E3-832CF7F805AD}" Type="Ref">/NI-myRIO-1900-030627ed/Library_Shared_Variables.lvlib/Button_Data_Logging_SP</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
