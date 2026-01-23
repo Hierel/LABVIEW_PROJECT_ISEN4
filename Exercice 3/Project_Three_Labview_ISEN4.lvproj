@@ -1,9 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="19008000">
-	<Property Name="varPersistentID:{1A645B68-03D6-4926-AF6E-C4AB5A3D3942}" Type="Ref">/NI-myRIO-1900-0305f41a/Library_Shared_Variables.lvlib/Magnitude_Value_Armed_State</Property>
 	<Property Name="varPersistentID:{2FEEA6F2-0C0A-49B7-A24A-04830FA716EB}" Type="Ref">/NI-myRIO-1900-0305f41a/Library_Shared_Variables.lvlib/State_Machine_Intrusion</Property>
 	<Property Name="varPersistentID:{39F092D2-64B0-48DA-BB7C-D7CF3D1DDF9F}" Type="Ref">/NI-myRIO-1900-0305f41a/Library_Shared_Variables.lvlib/Magnitude_Value_Intrusion</Property>
-	<Property Name="varPersistentID:{6B9E2A42-A7C2-42D5-B06A-4A69648F477F}" Type="Ref">/NI-myRIO-1900-0305f41a/Library_Shared_Variables.lvlib/State_Machine_Armed</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -107,6 +105,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Library_Shared_Variables.lvlib" Type="Library" URL="../Library_Shared_Variables.lvlib"/>
 		<Item Name="Real_Time_State_Machine.vi" Type="VI" URL="../Real_Time_State_Machine.vi"/>
 		<Item Name="System_State.ctl" Type="VI" URL="../System_State.ctl"/>
+		<Item Name="Temoin.ctl" Type="VI" URL="../Temoin.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Accelerometer Channels Enum.ctl" Type="VI" URL="/&lt;vilib&gt;/myRIO/Common/Instrument Driver Framework/myRIO v1.0/Accelerometer/typedefs/Accelerometer Channels Enum.ctl"/>
